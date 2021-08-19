@@ -4,4 +4,4 @@ I'm Jordan Hay, an Electrical Engineering Student at The University of Canterbur
 
 My GitHub contains the code related to my personal and school related projects. Most notable are [jmath](https://github.com/JHay0112/jmath), [my website](https://github.com/JHay0112/JHay0112.github.io), and [SunriseAlarmClock](https://github.com/JHay0112/SunriseAlarmClock). But feel free to explore my code as you please.
 
-For more information about me, what I do, my projects, or how to contact me, visit https://jordanhay.com/.
+For more information about me, what I do, my projects, or how to contact me, visit https://jordanhay.com/. I also have a blog detailing my projects at https://jordanhay.com/blog
