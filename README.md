@@ -1,6 +1,6 @@
 ### Kia Ora!
 
-I'm Jordan Hay, an Electrical Engineering Student at The University of Canterbury.
+I'm Jordan Hay, an Engineering Student at The University of Canterbury.
 
 My GitHub contains the code related to my personal and school related projects. Most notable are [jmath](https://github.com/JHay0112/jmath), [raytracing](https://github.com/JHay0112/raytracing), [my website](https://github.com/JHay0112/JHay0112.github.io), [HeightHight](https://github.com/JHay0112/HightHeight), and [Sunrise-Alarm-Clock](https://github.com/JHay0112/Sunrise-Alarm-Clock). But feel free to explore my code as you please.
 
